@@ -4,7 +4,7 @@ Blog
 **Testing Mermaid**
 
 ```mermaid
-graph TD;
+flowchart TD;
   A-->B;
   A-->C;
   B-->D;

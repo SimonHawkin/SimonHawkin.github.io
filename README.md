@@ -1,7 +1,8 @@
 # SimonHawkin.github.io
 Blog
 
-Testing
+**Testing Mermaid**
+
 ```mermaid
 graph TD;
   A-->B;

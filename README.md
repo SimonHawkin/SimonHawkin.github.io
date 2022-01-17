@@ -8,5 +8,5 @@ flowchart TD;
   A-->B;
   A-->C;
   B-->D;
-  C-->G;
+  C-->D;
 ```
